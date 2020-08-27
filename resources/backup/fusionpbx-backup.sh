@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export PGPASSWORD="zzz"
-db_host=192.168.20.251
+db_host=127.0.0.1
 db_port=5432
 
 now=$(date +%Y-%m-%d)
