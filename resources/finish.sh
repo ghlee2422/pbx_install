@@ -8,7 +8,7 @@ cd "$(dirname "$0")"
 . ./colors.sh
 
 #database details
-database_host=192.168.20.251
+database_host=192.168.20.113
 database_port=5432
 database_username=fusionpbx
 if [ .$database_password = .'random' ]; then
