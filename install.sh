@@ -53,5 +53,5 @@ systemctl restart nginx
 #systemctl restart fail2ban
 
 #add the database schema, user and groups
-resources/finish.sh
+#resources/finish.sh
 
